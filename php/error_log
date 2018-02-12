@@ -1,0 +1,286 @@
+[26-Dec-2016 23:17:11 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[26-Dec-2016 23:17:17 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[26-Dec-2016 23:19:10 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[26-Dec-2016 23:24:49 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[26-Dec-2016 23:25:10 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[26-Dec-2016 23:26:10 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[26-Dec-2016 23:26:24 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[26-Dec-2016 23:28:56 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[26-Dec-2016 23:30:29 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[26-Dec-2016 23:30:49 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:47:48 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:48:56 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:50:26 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:50:55 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:51:44 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:51:56 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:52:09 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:52:37 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:52:42 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:52:53 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:53:27 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:54:00 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:54:45 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:56:55 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 00:57:54 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 01:02:27 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bancontrol.php on line 8
+[27-Dec-2016 12:31:50 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 29
+[27-Dec-2016 12:36:32 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 29
+[27-Dec-2016 12:38:10 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 29
+[27-Dec-2016 13:25:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 16
+[27-Dec-2016 13:33:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 16
+[27-Dec-2016 13:33:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 16
+[27-Dec-2016 13:34:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 16
+[27-Dec-2016 14:11:34 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 16
+[27-Dec-2016 14:11:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 16
+[27-Dec-2016 14:12:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 16
+[27-Dec-2016 14:13:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 16
+[27-Dec-2016 14:13:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 16
+[27-Dec-2016 15:02:49 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 15:02:49 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 15:02:49 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 15:09:18 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 15:09:18 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 15:09:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 15:41:21 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 24
+[27-Dec-2016 15:41:21 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 29
+[27-Dec-2016 15:41:21 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 43
+[27-Dec-2016 15:41:21 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 44
+[27-Dec-2016 15:41:28 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 24
+[27-Dec-2016 15:41:28 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 29
+[27-Dec-2016 15:41:28 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 43
+[27-Dec-2016 15:41:28 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 44
+[27-Dec-2016 15:58:19 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/login_process.php on line 15
+[27-Dec-2016 15:58:19 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/login_process.php on line 16
+[27-Dec-2016 16:06:34 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:06:34 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:06:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:11:47 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 28
+[27-Dec-2016 16:18:06 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 10
+[27-Dec-2016 16:20:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 25
+[27-Dec-2016 16:20:36 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:20:36 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:20:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:20:57 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:20:57 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:20:57 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:36:10 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:36:10 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:36:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 213
+[27-Dec-2016 16:47:20 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 24
+[27-Dec-2016 16:47:20 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 29
+[27-Dec-2016 16:47:20 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 43
+[27-Dec-2016 16:47:20 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 44
+[27-Dec-2016 17:27:33 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/login_process.php on line 15
+[27-Dec-2016 17:27:33 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/login_process.php on line 16
+[27-Dec-2016 17:43:48 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/pannello_manutenzione_process.php on line 23
+[27-Dec-2016 17:43:48 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/pannello_manutenzione_process.php on line 24
+[27-Dec-2016 17:52:14 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 43
+[27-Dec-2016 17:52:14 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 44
+[27-Dec-2016 18:49:22 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/ricerca_page.php on line 9
+[27-Dec-2016 22:52:24 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:52:31 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:52:34 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:52:41 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:52:58 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:55:13 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:55:41 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:55:43 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:55:43 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:55:43 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:55:44 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:55:44 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 22:59:36 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[27-Dec-2016 23:40:44 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 43
+[27-Dec-2016 23:40:44 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 44
+[28-Dec-2016 10:23:08 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 43
+[28-Dec-2016 10:23:08 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 44
+[28-Dec-2016 11:38:52 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 24
+[28-Dec-2016 11:38:52 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 29
+[28-Dec-2016 11:38:52 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 43
+[28-Dec-2016 11:38:52 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 44
+[28-Dec-2016 11:42:47 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 28
+[28-Dec-2016 13:40:51 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 10
+[28-Dec-2016 20:24:01 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 21:17:46 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 22:37:36 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 22:37:47 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 22:37:51 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 22:37:56 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 22:38:07 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 22:47:07 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 23:57:01 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 23:57:12 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 23:57:51 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 23:58:16 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 23:58:31 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 23:58:49 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[28-Dec-2016 23:58:56 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:00:01 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:00:17 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:08:04 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:08:52 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:08:59 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:09:07 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:09:23 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:09:36 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:09:41 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:09:50 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:09:57 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:10:04 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 00:10:25 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 02:18:39 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 215
+[29-Dec-2016 02:18:39 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 215
+[29-Dec-2016 02:18:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 215
+[29-Dec-2016 16:59:11 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:00:06 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:00:17 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:00:32 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:00:42 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:01:06 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:01:25 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:01:42 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:01:47 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:01:53 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:02:12 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:02:22 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:02:37 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:02:46 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:02:53 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:03:07 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:03:16 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:03:55 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:04:35 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:04:48 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:05:01 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:05:20 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:06:08 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:06:45 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:07:14 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:07:52 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:08:11 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:08:30 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:08:44 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:08:58 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:09:05 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:09:12 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:09:56 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:10:08 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:10:26 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:10:45 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:10:57 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:11:31 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:12:06 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:12:16 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:12:30 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:12:50 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:13:06 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:13:19 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:22:27 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:23:07 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:43:37 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:48:22 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:48:36 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:49:07 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:49:19 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:49:40 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:49:45 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:49:56 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:50:01 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:50:05 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:50:30 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:50:35 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:50:41 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:50:48 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:50:55 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:51:06 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:51:22 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:51:35 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:51:39 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:51:43 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:51:50 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:52:04 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:52:08 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:52:32 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:52:32 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:52:44 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:53:05 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:53:21 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:53:41 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:53:54 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:54:20 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:54:23 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:54:26 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:54:30 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:54:45 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:54:55 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:55:01 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 17:55:06 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 18:45:37 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:01:11 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:02:12 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:03:17 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:39:49 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:45:52 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:49:02 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:49:35 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:50:06 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:50:28 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:50:59 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:55:15 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:55:44 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:56:42 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:57:53 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 19:59:49 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:06:01 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:06:22 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:06:35 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:07:07 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:17:30 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:17:58 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 33
+[29-Dec-2016 20:18:53 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:60) in /home/rjbmwtyj/public_html/php/sondaggio_new_associazioni.php on line 33
+[29-Dec-2016 20:20:06 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:23:21 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:23:30 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:23:40 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:24:04 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:24:14 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:27:07 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:27:19 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:37:28 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:50:05 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:50:10 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:50:28 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:51:22 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:51:32 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:51:55 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:52:04 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:55:27 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 20:57:03 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 10
+[29-Dec-2016 22:11:49 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 43
+[29-Dec-2016 22:11:49 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rjbmwtyj/public_html/php/registrazione_process.php on line 44
+[30-Dec-2016 18:01:59 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bacheca.php on line 214
+[30-Dec-2016 18:02:14 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bacheca.php on line 214
+[30-Dec-2016 18:02:50 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bacheca.php on line 214
+[30-Dec-2016 18:02:57 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bacheca.php on line 214
+[30-Dec-2016 18:04:14 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/bacheca.php on line 214
+[30-Dec-2016 18:20:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'fwrite' (T_STRING) in /home/rjbmwtyj/public_html/php/inseriscivoto.php on line 43
+[30-Dec-2016 18:44:25 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 215
+[30-Dec-2016 18:44:25 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 215
+[30-Dec-2016 18:44:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 215
+[30-Dec-2016 19:12:18 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 215
+[30-Dec-2016 19:12:18 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 215
+[30-Dec-2016 19:12:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 215
+[31-Dec-2016 03:00:03 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 221
+[31-Dec-2016 03:00:03 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 221
+[31-Dec-2016 03:00:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 221
+[31-Dec-2016 03:00:03 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 221
+[31-Dec-2016 03:00:03 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 221
+[31-Dec-2016 03:00:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 221
+[01-Jan-2017 18:21:25 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/login_process.php:15) in /home/rjbmwtyj/public_html/php/login_process.php on line 90
+[02-Jan-2017 00:54:32 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 220
+[02-Jan-2017 00:54:32 Europe/Berlin] PHP Warning:  include(pannello_sondaggi.php): failed to open stream: No such file or directory in /home/rjbmwtyj/public_html/php/main.php on line 220
+[02-Jan-2017 00:54:32 Europe/Berlin] PHP Warning:  include(): Failed opening 'pannello_sondaggi.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/rjbmwtyj/public_html/php/main.php on line 220
+[02-Jan-2017 14:53:32 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rjbmwtyj/public_html/php/main.php:65) in /home/rjbmwtyj/public_html/php/ricerca_page.php on line 9
+[02-Jan-2017 15:40:31 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/sondaggio_visit.php on line 21
+[02-Jan-2017 15:40:39 Europe/Berlin] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rjbmwtyj/public_html/php/sondaggio_visit.php on line 21
